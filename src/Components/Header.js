@@ -68,12 +68,12 @@ const Header = () => {
               </Link>
             </MenuItem>
             <MenuItem onClick={handleClose}>
-              <Link href="/projects" className={classes.link}>
+              <Link href="#/projects" className={classes.link}>
                 Projects
               </Link>
             </MenuItem>
             <MenuItem onClick={handleClose}>
-              <Link href="/contact" className={classes.link}>
+              <Link href="#/contact" className={classes.link}>
                 Contact
               </Link>
             </MenuItem>
