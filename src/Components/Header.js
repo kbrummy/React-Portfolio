@@ -63,7 +63,7 @@ const Header = () => {
             TransitionComponent={Fade}
           >
             <MenuItem onClick={handleClose}>
-              <Link href="/" className={classes.link}>
+              <Link href="#" className={classes.link}>
                 Home
               </Link>
             </MenuItem>
