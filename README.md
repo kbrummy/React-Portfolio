@@ -1,5 +1,8 @@
 # React-Portfolio
 
+Deployed App Link: https://kbrummy.github.io/React-Portfolio/#/
+Repository Link: https://github.com/kbrummy/React-Portfolio
+
 Requirements:
 
 Updated portfolio featuring 6 total projects
